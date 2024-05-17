@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(216, 245, 255);
+}
+
+.NavImg{
+    height: 150px;
+    width: 200px;
+}
+
+.TabWrapper{
+    
+}
+
+
+.TabContent{
+    width: 100%;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+
+#TabCard1{
+    width: 269px;
+    height: 50px;
+    border: solid 2px rgb(255, 255, 255);
+    background-color: rgb(249, 203, 255);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+#TabCard2{
+    width: 269px;
+    height: 50px;
+    border: solid 2px rgb(255, 255, 255);
+    background-color: rgb(249, 203, 255);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+#TabCard3{
+    width: 269px;
+    height: 50px;
+    border: solid 2px rgb(255, 255, 255);
+    background-color: rgb(249, 203, 255);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+#TabCard4{
+    width: 269px;
+    height: 50px;
+    border: solid 2px rgb(255, 255, 255);
+    background-color: rgb(249, 203, 255);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+
+#TabCard5{
+    width: 269px;
+    height: 50px;
+    border: solid 2px rgb(255, 255, 255);
+    background-color: rgb(249, 203, 255);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.text{
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
