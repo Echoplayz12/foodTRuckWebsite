@@ -85,3 +85,45 @@ body{
     pointer-events: none;
 }
 
+.Title{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    font-size: 33px;
+    color: rgb(196, 189, 255);
+}
+
+#foldingSlides1{
+    border: solid 3px white;
+    height: 600px;
+    width: 269px;
+    background-color: rgb(197, 255, 255);
+}
+
+#foldingSlides2{
+    border: solid 3px white;
+    height: 600px;
+    width: 269px;
+    background-color: rgb(197, 255, 255);
+}
+
+#foldingSlides3{
+    border: solid 3px white;
+    height: 600px;
+    width: 269px;
+    background-color: rgb(197, 255, 255);
+}
+
+#foldingSlides4{
+    border: solid 3px white;
+    height: 600px;
+    width: 269px;
+    background-color: rgb(197, 255, 255);
+}
+
+#foldingSlides5{
+    border: solid 3px white;
+    height: 600px;
+    width: 269px;
+    background-color: rgb(197, 255, 255);
+}
